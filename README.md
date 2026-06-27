@@ -126,7 +126,7 @@ The full derivation, truncation error proof, and benchmarks are in the preprint:
 > Williams Otieno Ochieng, *"The Williams GTDR Formula: A Gauss-Taylor Derivative Reconstruction Integrator for Low-NFE Continuous-Time Machine Learning"*, Kenyatta University, 2026.
 
 📄 **PDF:** `WILLIAMS_GTDR.pdf`
-🔗 **Zenodo:** *(add DOI after publishing)*
+🔗 **Zenodo:** *https://doi.org/10.5281/zenodo.20967109*
 
 ---
 
